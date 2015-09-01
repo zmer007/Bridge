@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bridge</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="restart">重新开始</string>
+</resources>
